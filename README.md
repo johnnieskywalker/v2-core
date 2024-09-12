@@ -22,3 +22,13 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+
+## Deployments
+
+https://goerli.arbiscan.io/address/0xc7a91efdD0f90A420fcAF11433C63B2cd59222FA#writeContract
+
+pair
+https://testnet.arbiscan.io/tx/0x55c2ba25c9a7fd4552f07c95fee35804cdfa887b53d9b49036abb1876b64cf25
+
+WETH9
+https://goerli.arbiscan.io/address/0xb8f2E6a025C3dA0f8D14D20B8Ed0d1d7ac35E64c
